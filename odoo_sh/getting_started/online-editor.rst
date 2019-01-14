@@ -135,10 +135,10 @@ In this last command,
   This is because builds work on specific revisions rather than branches.
   In other words, this means you can have multiple builds on the same branch, but on different revisions.
 
-Once your changes pushed,
+Once your changes are pushed,
 according to your :ref:`branch push behavior <odoosh-gettingstarted-branches-tabs-settings>`,
-a new build may be created. You can continue to work in the the current editor you pushed from,
-as it will have the same revision than the new build which is created, but always make sure to be
+a new build may be created. You can continue to work in the editor you pushed from,
+as it will have the same revision as the new build that was created, but always make sure to be
 in an editor of a build using the latest revision of your branch.
 
 Consoles
